@@ -12,7 +12,7 @@ Laissez toujours quelques mètres en vous et la ligne d'assaut. Les tireurs enne
 * **Déplacez les corps vers l'arrière**. Si un de vos camarades tombe, ne le soignez pas sur place ! Vous pouvez porter son cadavre en retrait de la ligne d'assaut, puis le soigner. Ne soignez jamais près ou en avant de la ligne d'assaut.
 * **Séparez vous des autres médics.** Si vous êtes plusieurs médics à suivre la première ligne, écartez vous pour éviter d'être touchés par une grenade ou un obus, perdre plusieurs médics d'un coup peut etre catastrophique pour la première ligne.
 * **Ne soignez pas un soldat si un autre medic s'en occupe.** Ne fixez jamais deux medics sur un seul blessé, c'est une perte de temps et de ressource. Si un autre medic s'occupe d'un blessé, cherchez en un autre. Vous allez surement trouver.
-* **Identifiez vous clairement comme médic.** Les soldats doivent savoir rapidement vers qui se tourner en cas de blessure. Equippez en priorité votre Trauma Kit, qui avec sa croix verte, vous permet de vous identifier en un coup d'oeil.
+* **Identifiez vous clairement comme médic.** Les soldats doivent savoir rapidement vers qui se tourner en cas de blessure. Equippez en priorité votre First Aid Kit, qui avec sa croix verte, vous permet de vous identifier en un coup d'oeil.
 * **Si vous avez une ambulance, suivez la ligne de front.** Votre ambulance est très pratique pour soutenir la ligne de front et les autres médics. Pensez à faire avancer votre ambulance en même temps que la ligne de front tout en gardant quelques mètres de distance pour ne pas être ciblés.
 * **Récupérez les Critically Wounded Soldiers**. Si vous le pouvez, récupérez les Critically Wounded Soldiers pour obtenir de précieux Soldier Supplies. (Plus d'info dans la section "medic et logi à la fois ?")
 ## 🎒Equipement
@@ -25,7 +25,7 @@ Pour bien jouer le rôle de médic, vous devez **impérativement** emporter ce s
 * First Aid Kit *(x1)*
 * Bandages *(x5 grand maximum)*
 * Trauma Kit *(x1)*
-* Blood Plasma *(x1-2)
+* Blood Plasma *(x1-2)*
 
 Il n'est pas nécessaire d'emporter trop de bandages sur le front, car ils sont facilement trouvables dans les sacs des soldats morts. 
 Pour le Blood Plasma, 1 ou 2 suffiront. Il est en général assez difficile de revive des soldats, si vous êtes a court de Blood Plasma, mieux vaut faire un rapide retour vers l'arrière ou une Ambulance de campagne pour vous restock.
